@@ -1,0 +1,62 @@
+Tool: truffleHog
+OrgorUser: zriyansh RepoName: YelpCamp
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: Generic Password[0m
+[92mDate: 2020-05-20 07:19:32[0m
+[92mHash: 6021f1eb1f12ba6a57aa940144f369ddf90aec5b[0m
+[92mFilepath: views/login.ejs[0m
+[92mBranch: origin/master[0m
+[92mCommit: add package-lock.json
+[0m
+[93m-						<input class="form-control" type="password" name="password" placeholder="password">[0m
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: Generic Password[0m
+[92mDate: 2020-05-20 07:19:32[0m
+[92mHash: 6021f1eb1f12ba6a57aa940144f369ddf90aec5b[0m
+[92mFilepath: views/register.ejs[0m
+[92mBranch: origin/master[0m
+[92mCommit: add package-lock.json
+[0m
+[93m-						<input class="form-control" type="password" name="password" placeholder="Password">[0m
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: Generic Password[0m
+[92mDate: 2020-05-20 07:13:43[0m
+[92mHash: 32750c4f690b19ac3a1f20bd22cb652b6ea3ee09[0m
+[92mFilepath: views/login.ejs[0m
+[92mBranch: origin/master[0m
+[92mCommit: Initial commit[0m
+[93m+						<input class="form-control" type="password" name="password" placeholder="password">[0m
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: Generic Password[0m
+[92mDate: 2020-05-20 07:13:43[0m
+[92mHash: 32750c4f690b19ac3a1f20bd22cb652b6ea3ee09[0m
+[92mFilepath: views/register.ejs[0m
+[92mBranch: origin/master[0m
+[92mCommit: Initial commit[0m
+[93m+						<input class="form-control" type="password" name="password" placeholder="Password">[0m
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: Generic Password[0m
+[92mDate: 2020-05-20 07:07:49[0m
+[92mHash: e37db13af779ee6f34a1ba3675199be0558b8780[0m
+[92mFilepath: views/login.ejs[0m
+[92mBranch: origin/master[0m
+[92mCommit: initial commit
+[0m
+[93m+						<input class="form-control" type="password" name="password" placeholder="password">[0m
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: Generic Password[0m
+[92mDate: 2020-05-20 07:07:49[0m
+[92mHash: e37db13af779ee6f34a1ba3675199be0558b8780[0m
+[92mFilepath: views/register.ejs[0m
+[92mBranch: origin/master[0m
+[92mCommit: initial commit
+[0m
+[93m+						<input class="form-control" type="password" name="password" placeholder="Password">[0m
+~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tool: repo-supervisor
