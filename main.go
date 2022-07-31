@@ -26,7 +26,7 @@ var (
 	token                = flag.String("token", "", "Github Personal Access Token. This is required.")
 	outputFile           = flag.String("output", "results.txt", "Output file to save the results.")
 	user                 = flag.String("user", "", "Name of the Github user to scan. Example: secretuser1")
-	repoURL              = flag.String("repoURL", "", "HTTPS URL of the Github repo to scan.
+	repoURL              = flag.String("repoURL", "", "HTTPS URL of the Github repo to scan.")
 	gistURL              = flag.String("gistURL", "", "HTTPS URL of the Github gist to scan. Example: https://gist.github.com/secretuser1/81963f276280d484767f9be895316afc")
 	cloneForks           = flag.Bool("cloneForks", false, "Option to clone org and user repos that are forks. Default is false")
 	orgOnly              = flag.Bool("orgOnly", false, "Option to skip cloning user repo's when scanning an org. Default is false")
